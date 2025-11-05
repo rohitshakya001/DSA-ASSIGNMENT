@@ -1,4 +1,4 @@
-# DSA Assignment
+# DSA Assignment 01
 ASSIGNMENT -01
 
 //1- Find the minimum value in an array
